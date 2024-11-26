@@ -1,4 +1,3 @@
-# sab
 <!DOCTYPE html>
 <html lang="fa">
 <head>
@@ -47,6 +46,25 @@
       width: 375px;
       height: 441px;
     }
+    .row{
+    display:flex
+}
+
+.col-1{width:8.3333%;} 
+.col-2{width:16.6666%;} 
+.col-3{width:24.9999%;} 
+.col-4{width:33.3334%;} 
+.col-5{width:41.6665%;} 
+.col-6{width:49.9998%;} 
+.col-7{width:58.3331%;} 
+.col-8{width:66.6664%;} 
+.col-9{width:74.9997%;} 
+.col-10{width:83.333%;} 
+.col-11{width:91.6663%;} 
+.col-12{width: 101.24%;} 
+ 
+
+
     
 
     
@@ -56,7 +74,7 @@
   </style>
 </head>
 <body>
-<link rel="stylesheet" href="new.css">
+
 <header>
   <section  class="col-12" style="background-color:rgba(8, 185, 212, 0.886); height: 100px; color:rgb(0, 0, 0)">12</section>
 </header>
